@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Ksgaksbsye/New",
+    "https://github.com/RadhaMusic14/New",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -81,13 +81,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/hLr.jpg"
+    "START_IMG_URL", "https://graph.org/file/a3315daeb38eab084a56e-431dcfa55eaf87ad5f.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/hLr.jpg"
+    "PING_IMG_URL", "https://graph.org/file/2b8ee471e71482208eabb-340a25c9c9f135d44c.jpg"
 )
 PLAYLIST_IMG_URL = "https://envs.sh/h4d.jpg"
-STATS_IMG_URL = "https://envs.sh/hLr.jpg"
+STATS_IMG_URL = "https://graph.org/file/2b8ee471e71482208eabb-340a25c9c9f135d44c.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
